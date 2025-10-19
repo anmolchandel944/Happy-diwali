@@ -104,7 +104,7 @@
 
 footer {
     position: absolute;
-    bottom: 50px;
+    bottom: 100px;
     width: 100%;
     text-align: center;
     padding: 10px;
@@ -130,3 +130,4 @@ footer {
     }
 
 }
+
